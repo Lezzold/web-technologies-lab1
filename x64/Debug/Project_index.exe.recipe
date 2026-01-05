@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\yabar\source\repos\Project_index\x64\Debug\Project_index.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\yabar\source\repos\Project_index\Project_index\index.htm</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\yabar\source\repos\Project_index\Project_index\about.htm</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
